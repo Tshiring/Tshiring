@@ -42,3 +42,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tshiring&theme=light&background=ffffff" alt="tshiring" /></p>
 
 
+![GitHub metrics](https://metrics.lecoq.io/tshiring)  
+
