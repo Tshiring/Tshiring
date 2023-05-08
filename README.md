@@ -2,10 +2,18 @@
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshiring&label=Profile%20views&color=0e75b6&style=flat" alt="tshiring" /> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tshiring&theme=juicyfresh" alt="tshiring" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tshiring" alt="tshiring" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/tshiring_d" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/tshiring_d?style=for-the-badge&logo=twitter&theme=dark" alt="tshiring_d" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/tshiring_d" target="blank"><img src="https://img.shields.io/twitter/follow/tshiring_d?logo=twitter&style=for-the-badge" alt="tshiring_d" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next JS, Tailwind CSS, RTK Query**
 
