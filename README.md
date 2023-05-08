@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/tshiring_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tshiring_d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tshiringdorjesherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tshiringdorjesherpa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tshiring-dorje-sherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tshiring-dorje-sherpa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18605970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18605970" height="30" width="40" /></a>
+<a href="https://fb.com/tshiringdorjesherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tshiringdorjesherpa" height="30" width="40" /></a>
 <a href="https://instagram.com/tshiringdorjesherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshiringdorjesherpa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tshiringdsherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tshiringdsherpa" height="30" width="40" /></a>
 </p>
@@ -28,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tshiring&show_icons=true&locale=en" alt="tshiring" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tshiring&" alt="tshiring" /></p>
-
