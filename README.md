@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tshiring Dorje Sherpa</h1>
+<h1 align="center">Tashi Delek 👋, I'm Tshiring Dorje Sherpa</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
 
 
