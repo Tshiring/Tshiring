@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
 
 
-- 🌱 I’m currently learning **React, Next JS, Tailwind CSS, RTK Query**
+- 🌱 I’m currently learning **React, Next JS, Tailwind CSS, RTK Query, Zustand **
 
 - 📫 How to reach me **tshiring1814@gmail.com**
 
